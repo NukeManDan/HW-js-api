@@ -1,0 +1,14 @@
+{
+  "name": "polkadot-backend-js",
+  "version": "0.0.1",
+  "description": "Playing with polkadot api",
+  "main": "main.js",
+  "dependencies": {
+    "@polkadot/api": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [],
+  "author": "NukeManDan",
+  "license": "Unlicense"
+}
